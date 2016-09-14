@@ -1,7 +1,7 @@
 {
   "name": "sass-bootstrap-grid-only",
-  "version": "1.0.0",
-  "description": "NPM - Custom import of just the boostrap grid. previously bower-custom-bootstrap, ported from https://github.com/Pixelmixer/skeleton2",
+  "version": "1.0.1",
+  "description": "NPM - Import of just the boostrap grid",
   "main": "assets/stylesheets/bootstrap-custom.scss",
   "repository": {
     "type": "git",
