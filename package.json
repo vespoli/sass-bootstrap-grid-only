@@ -1,0 +1,31 @@
+{
+  "name": "sass-bootstrap-grid-only",
+  "version": "1.0.0",
+  "description": "NPM - Custom import of just the boostrap grid. previously bower-custom-bootstrap, ported from https://github.com/Pixelmixer/skeleton2",
+  "main": "assets/stylesheets/bootstrap-custom.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vespoli/sass-bootstrap-grid-only.git"
+  },
+  "keywords": [
+    "custom",
+    "npm",
+    "bootstrap",
+    "grid",
+    "css",
+    "twbs",
+    "responsive",
+    "grid only",
+    "sass",
+    "scss"
+  ],
+  "author": "David Vespoli <hi@davidvespoli.com> (https://davidvespoli.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.6"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "gulp default"
+  }
+}
