@@ -1,6 +1,6 @@
 {
   "name": "sass-bootstrap-grid-only",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NPM - Import of just the boostrap grid",
   "main": "assets/stylesheets/bootstrap-custom.scss",
   "repository": {
@@ -22,7 +22,7 @@
   "author": "David Vespoli <hi@davidvespoli.com> (https://davidvespoli.com)",
   "license": "MIT",
   "dependencies": {
-    "bootstrap-sass-official": "git://github.com/twbs/bootstrap-sass"
+    "bootstrap-sass": "git://github.com/twbs/bootstrap-sass"
   },
   "scripts": {
     "prestart": "npm install",
